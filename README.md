@@ -1,5 +1,4 @@
-# <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Abhijeet%20Singh&fontSize=70&animation=fadeIn" /></p>
-
+# 💫 Hi there, i am Akki ><
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=Software+Developer;Game+Developer+In+Progress;Building+the+Future+with+AI;Data+Structures+%26+Algorithms" alt="Typing SVG" />
