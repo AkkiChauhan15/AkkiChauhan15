@@ -6,7 +6,7 @@
 </p>
 
 #  About Me:
-I don’t just write code, I ship ideas. Whether it’s crafting smooth JavaScript experiences, scripting power with Python, or pushing performance boundaries with Rust, I’m always chasing that next clean solution. Open source isn’t just something I contribute to—it’s where I experiment, break things, and come back stronger. I like systems that scale, code that speaks, and projects that actually matter. If it’s challenging, slightly chaotic, and worth solving—I’m already in.
+I don’t just write code, I ship ideas. Whether it’s crafting smooth JavaScript experiences, scripting power with Python, or pushing performance boundaries with Rust, I’m always chasing that next clean solution. Open source isn’t just something I contribute to it’s where I experiment, break things, and come back stronger. I like systems that scale, code that speaks, and projects that actually matter. If it’s challenging, slightly chaotic, and worth solving , I’m already in.
 
 ##  Socials:
 <p align="left">
